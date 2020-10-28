@@ -1,0 +1,24 @@
+Nom_Lieu,Latitude,Longitude,Groupe,Visite,Description,Indications,
+PG1,"49°24'00.9""N","2°48'00.2""E",Universite,0,Batiment de TP,Ligne 5 arrêt Centre de Recherches (depuis BF : direction hôpital),Lab building
+PG2,"49°24'03.4""N","2°48'01.4""E",Universite,0,Batiment de TP,Ligne 5 arrêt Rostand (depuis BF : direction hôpital),Lab building
+BF,"49°24'55.8""N","2°49'08.6""E",Universite,0,Batiment de cours. Toutes les salles ayant comme code BF... sont situées dans ce bâtiment.,"Ligne 5 arrêt Couttolenc/Port à Bateaux, Ligne 3 arrêt Port à Bateaux","Classrooms building. Every room starting with ""BF"" are in this building."
+HDS,"49°24'04.1""N","2°47'40.9""E",Universite,0,Sport et examens finaux,Ligne 5 arrêt Denielou (depuis BF : direction hôpital),Sports and final exams.
+CI,"49°24'07.0""N","2°47'43.6""E",Universite,0,Bâtiment utilisé pour tous les projets innovant. Le fablab se trouve à cette endroit,Ligne 5 arrêt Denielou (depuis BF : direction hôpital),Place for all innovating project. You can find the Fablab here.
+ESCOM,"49°24'06.9""N","2°48'08.2""E",Universite,0,Bâtiment de TP (chimie),Ligne 5 arrêt Rostand (depuis BF : direction hôpital),Chemical labs building.
+Pic,"49°24'56.1""N","2°49'09.7""E",Universite,0,Lieu de rencontres entre Utcéens. Ouvert toute la journée et proposant des permanences dont le thème change tous les jours. Vente de bières le soir,Le pic est à BF :),Meeting point for students. Open during the day. Themed night every evening (changes everyday). You can also buy beers here.
+Auchan,"49°24'44.5""N","2°48'58.0""E",Utilitaire,0,Supermarché situé près de BF‚ il est aussi à proximité des principales résidences étudiantes.,"A 10min à pied de BF, dans la direction de PG, Ligne 5 arrêt Gambetta (depuis BF : direction hôpital)",Supermarket near BF. Also close to major student residences.
+Monoprix,"49°25'06.8""N","2°49'31.0""E",Utilitaire,0,Supermarché situé en centre-ville sur la rue Solférino. Il est proche de la gare,"Situé au centre ville, à 10min à pied de BF, ligne 5 arrêt Solférino (direction Gare ; attention tous les bus ne passent pas par cet arrêt)",
+Intermarché,"49°23'49.8""N","2°47'46.9""E",Utilitaire,0,Supermarché situé près des bâtiments de PG,"15min à pied du CI, lignes 3 (direction centre commerciel) et 5 (direction hôpital) arrêt Blaise Pascal ",
+EJL,"49°24'25.7""N
+","2°48'31.6""E",Loisir,0,Lieu culturel permettant d'aller profiter de divers spectacles souvent plus modernes que ce qui est proposé au Théâtre Impérial,"Ligne 5 arrêt Centre Culturel, 15 min à pied de BF",
+Gare,"49°25'19.3""N","2°49'24.9""E",Utilitaire,0,Située à Margny-les-Compiègne‚ elle est le terminus et le départ de toutes les lignes de bus. Des services de taxis y sont aussi présents.,"Tous les bus mènent à la gare. Tant qu'il est direction Gare, bien sûr",
+Parc Songeons,"49°25'04.9""N","2°49'15.6""E",Loisir,0,Parc situé près de Benjamin Franklin et de l'Oise‚ il est en centre-ville ,"5min de BF à pied, en longeant l'Oise en direction du centre-ville",
+RU,"49°24'55.2""N
+","2°49'11.8""E",Utilitaire,0,Restaurant Universitaire ouvert du Lundi au Vendredi‚ midi et soir. Prix des repas : 3€25,"En face de BF, difficile à manquer",
+Théâtre Impérial,"49°25'11.0""N ","2°49'49.4""E",Loisir,0,Lieu culturel à visiter‚ le théâtre propose diverses représentations dans un cadre avec une des meilleures acoustiques d'Europe. Lié au palais‚ le théâtre est aussi un lieu où il est possible de travailler en tant qu'ouvreur,Dans une rue sur la gauche du palais impérial. Marcher c'est bien aussi !,
+Palais Impérial,"49°25'09.5""N","2°49'52.3""E",Loisir,0,Lieu culturel à visiter‚ datant de l'époque de Napoléon III‚ doté d'un jardin et d'un salon de thé‚ il est aussi près de l'avenue des Beaux Monts,"Depuis BF, en direction du centre ville, et continuer tout droit... tout droit... Pas d'arrêt de bus pratique, utilise tes petits petons ;)",
+Roberval,"49°24'44.1""N","2°48'44.9""E",Résidence,0,Résidence étudiante située près de BF et de Auchan,,
+La Mare Gaudry,"49°24'32.2""N
+","2°48'47.2""E",Résidence,0,Résidence étudiante située près du comissariat de police‚ de l'EJL et de la rue de Paris,,
+La Ruche,"49°25'08.2""N","2°48'58.8""E",Résidence,0,Résidence côté Margny‚ située de l'autre côté du pont Neuf‚ près de BF,,
+Peupliers,"49°23'46.5""N","2°47'24.3""E",Résidence,0,Résidence située près d'Intermarché et de l'ensemble des bâtiments de PG,,

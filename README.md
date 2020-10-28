@@ -1,6 +1,8 @@
 # UTC_Go
 
-![UTC Go Logo](/images/logo.png =250x)
+![UTC Go Logo](/images/logo.png)
+
+<img src="/images/logo.png" alt="UTC Go Logo" width="100"/>
 
 UTC Go is a serious game developed to help newcoming UTC (University of Technology of Compiègne) students discover the campus and other points of interest withing the city.
 

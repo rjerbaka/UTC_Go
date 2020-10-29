@@ -2,7 +2,7 @@
 
 <img src="/images/logo.png" alt="UTC Go Logo" width="200"/>
 
-UTC Go is a serious game developed to help newcoming UTC (University of Technology of Compiègne) students discover the campus and other points of interest withing the city.
+UTC Go is a serious game developed to help newcoming UTC (University of Technology of Compiègne) students discover the campus and other points of interest withing the city. Tony
 
 ## Features
 The game's features are mostly inspired by Pokemon Go's. 
